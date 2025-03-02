@@ -1,5 +1,5 @@
-const add = function() {
-	
+const add = function(a, b) {
+	a + b
 };
 
 const subtract = function() {
